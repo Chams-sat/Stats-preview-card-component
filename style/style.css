@@ -109,14 +109,18 @@ body {
         display: inline-block;
     }
     .stats {
-        margin: 2rem;
+        margin: 3rem 2rem 0 2rem;
     }
     .info {
         text-align: left;
     }
+    .info p {
+        line-height: 1.5rem;
+    }    
     .info h1 {
         padding: 2rem 3rem;
     }
+    
 }
 
 
