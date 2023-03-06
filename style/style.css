@@ -85,8 +85,11 @@ body {
 }
 
 @media (min-width: 950px) {
+    body {
+        width: 100vh;
+    }    
     .card {
-        width: 70rem;
+        width: 75rem;
         height: 30rem;
         margin: auto;
         display: flex;
